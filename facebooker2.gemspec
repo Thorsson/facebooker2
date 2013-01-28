@@ -1,12 +1,12 @@
 spec = Gem::Specification.new do |s|
-  s.name = 'facebooker2'
-  s.version = '0.0.16'
+  s.name = 'thorsson_facebooker2'
+  s.version = '0.0.17'
   s.summary = "Facebook Connect integration library for ruby and rails"
   s.description = "Facebook Connect integration library for ruby and rails"
   s.files = Dir['lib/**/*.rb']
   s.require_path = 'lib'
   s.has_rdoc = false
-  s.author = "Mike Mangino"
+  s.author = "Mike Mangino Ivan Turkovic"
   s.email = "mmangino@elevatedrails.com"
   s.homepage = "http://developers.facebook.com/docs/api"
 
